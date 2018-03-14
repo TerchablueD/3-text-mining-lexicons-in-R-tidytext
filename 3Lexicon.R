@@ -1,4 +1,6 @@
 #PROJECT : 3 text-mining lexicons in R tidytext
+# https://datacritics.com/2018/03/14/three-text-sentiment-lexicons-in-r-tidytext/
+
 # Load
 library("dplyr")
 library("tidytext")
