@@ -1,6 +1,6 @@
 #PROJECT : 3 text-mining lexicons in R tidytext
 # https://datacritics.com/2018/03/14/three-text-sentiment-lexicons-in-r-tidytext/
-# NOTE THIS SCRIPT IS FROM TEXTMINING FROM R
+# NOTE THIS SCRIPT IS FROM THE AMAZING BOOK TEXTMINING FROM R - this is for a perpsective of output options
 
 # Load
 library("dplyr")
